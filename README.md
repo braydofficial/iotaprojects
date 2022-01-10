@@ -1,7 +1,7 @@
 # IOTA projects
 This is a collection of useful IOTA projects!
 
-## IOTA exchange status
+## <a href="https://iotaexchangestatus.canreal.net">IOTA exchange status</a>
 <p>
   <img src="https://img.shields.io/website?label=IOTA%20exchange%20status&up_message=online&url=https%3A%2F%2Fiotaexchangestatus.canreal.net">
 </p>
